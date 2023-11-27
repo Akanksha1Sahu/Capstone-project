@@ -1,15 +1,16 @@
 # Capstone-project
-1. Skills applied: Python, Excel, SQL
+ Skills applied: Python, Excel, SQL
    
-2. Libraries used: Pandas, Numpy, Seaborn, Matplotlib, Plotly
+ Libraries used: Pandas, Numpy, Seaborn, Matplotlib, Plotly
 
-3. Tools, IDE and others: Jupyter Notebooks, IBM Cognos Analytics, IBM Watson studio
+ Tools, IDE and others: Jupyter Notebooks, IBM Cognos Analytics, IBM Watson studio
 
-4. I assumed the role of a Data Analyst with a global IT and Business Services firm for collecting data from various sources and identifying trends on emerging skills using Stack overflow developer 2019 survey dataset.
+ I assumed the role of a Data Analyst with a global IT and Business Services firm for collecting data from various sources and identifying trends on emerging skills using Stack overflow developer 2019 survey 
+ dataset.
    
-5. The project focused on following key aspects:
+ The project focused on following key aspects:
    
-1.Data Collection : Gathered information on in-demand technology skills from diverse sources such as job postings, blog posts, and surveys.
+1. Data Collection : Gathered information on in-demand technology skills from diverse sources such as job postings, blog posts, and surveys.
 
 2. Data Wrangling : Prepared the collected data for analysis by employing data wrangling techniques, including identifying and removing duplicates, handling missing values, and ensuring data quality.
    
